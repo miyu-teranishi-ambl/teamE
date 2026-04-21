@@ -1,0 +1,11 @@
+自己紹介
+kaiga
+
+経験あり
+Git
+
+経験なし
+Java
+SQL
+Linux
+JavaScript
